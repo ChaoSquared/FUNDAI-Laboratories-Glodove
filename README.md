@@ -2,8 +2,8 @@
 # FUNDAI Laboratory Outputs
 
 ## Student Information
-- Name: Glodove, Charles Niccolo C.
-- Course: BSCS-AI
+- Name: Charles Niccolo C. Glodove
+- Course: CS-FUNDAI  
 - Section: 09282-FUNDAI
 - GitHub Username: ChaoSquared
 
