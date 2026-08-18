@@ -4,7 +4,7 @@
 ## Student Information
 - Name: Glodove, Charles Niccolo C.
 - Course: BSCS-AI
-  - Section: 09282-FUNDAI
+- Section: 09282-FUNDAI
 - GitHub Username: ChaoSquared
 
 ## Laboratory Activities
